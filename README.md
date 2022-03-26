@@ -4,6 +4,8 @@ It describes the success of secondary school students in two Portuguese schools.
 Mathematics (mat) and Portuguese (por).
 important note: The G3 target attribute is strongly correlated with the G2 and G1 attributes. This is because G3 corresponds to the final year grade (given in the 3rd semester), while G1 and G2 correspond to the 1st and 2nd semester grades. Without G2 and G1, G3 is harder to predict.
 
+- [Data Set](https://www.kaggle.com/datasets/dipam7/student-grade-prediction)
+
 FEATURE INFORMATION
 1. School: schools attended by students ( 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
 2. Sex : gender of students (M: Male, F: Female)
